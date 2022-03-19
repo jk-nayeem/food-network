@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    
+    margin: 0;
+    font-size: 50px;
+    color: rgb(88, 86, 86);
+}
+h2{
+    font-size: 30px;
+    color: rgb(88, 86, 86);
+}
+h3{
+    font-weight: 700;
+    font-size: 24px;
+    font-family: 'Archivo Black', sans-serif;
+}
+#text-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 60px;
+}
+.half-width{
+    width: 50%;
+}
+#first-left{
+    padding-left: 150px;
+    padding-top: 130px;
+}
+.top-area img{
+    width: 70%;
+    padding-top: 40px;
+    padding-left: 7%;
+}
+#link-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, orange, tomato);
+    color: white;
+    padding: 12px 23px;
+    border-radius: 20px;
+}
+.about-area{
+    background-image: url(images/7.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+}
+.about-area img{
+    width: 40%;
+    padding-left: 150px;
+}
+.about-right{
+    padding-right: 40%;
+    padding-top: 30px;
+}
+.up-part{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+.down-part img{
+    width: 100%;
+}
+.down-part{
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}
+.tri-width{
+    width: 32%;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px rgb(182, 177, 177);
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 60px;
+}
+.distance-area{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 15px;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    box-shadow: 1px 1px 30px rgb(224, 221, 221);
+}
+.tri2-area{
+    margin-left: 9.36%;
+    margin-right: 10%;
+}
+#remake{
+    font-family: 'Archivo Black', sans-serif;
+    margin-bottom: 0;
+    color: black;
+    font-size: 40px;
+}
+
+.bottom-area{
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+#slide-pad{
+    padding-top: 30px;
+}
